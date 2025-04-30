@@ -1,1 +1,7 @@
 .env
+/project_v1/__pycache__
+project_v1/auth/__pycache__
+project_v1/credits/__pycache__
+project_v1/features/__pycache__
+project_v1/database/__pycache__
+project_v1/features/__pycache__
